@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://010011000100111101001100.lol/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-first-post/</loc>
+    <loc>https://010011000100111101001100.lol/blog/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://010011000100111101001100.lol/my-first-post/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
   </url>
 </urlset>
