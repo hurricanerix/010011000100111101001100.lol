@@ -4,11 +4,25 @@
   <url>
     <loc>https://010011000100111101001100.lol/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://010011000100111101001100.lol/blog/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://010011000100111101001100.lol/my-first-post/</loc>
+    <loc>https://010011000100111101001100.lol/blog/2024-08-20-my-first-post/</loc>
     <lastmod>2024-08-20T07:52:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://010011000100111101001100.lol/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://010011000100111101001100.lol/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

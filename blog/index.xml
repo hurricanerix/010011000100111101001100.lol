@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>  on 01001100 01001111 01001100</title>
-    <link>https://010011000100111101001100.lol/</link>
-    <description>Recent content in   on 01001100 01001111 01001100</description>
+    <title>Blogs on 01001100 01001111 01001100</title>
+    <link>https://010011000100111101001100.lol/blog/</link>
+    <description>Recent content in Blogs on 01001100 01001111 01001100</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Richard Hawkins</copyright>
     <lastBuildDate>Tue, 20 Aug 2024 07:52:33 -0500</lastBuildDate>
-    <atom:link href="https://010011000100111101001100.lol/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://010011000100111101001100.lol/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://010011000100111101001100.lol/blog/2024-08-20-my-first-post/</link>
